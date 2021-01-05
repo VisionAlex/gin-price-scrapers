@@ -1,0 +1,5 @@
+{"config":{"url":"https://alcooldiscount.ro/ro/gin","method":"get","headers":{"Accept":"application/json, text/plain, */*","User-Agent":"axios/0.21.0"},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"maxBodyLength":-1},"code":"HPE_HEADER_OVERFLOW"}
+{"config":{"url":"https://alcooldiscount.ro/ro/gin","method":"get","headers":{"Accept":"application/json, text/plain, */*","User-Agent":"axios/0.21.0"},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"maxBodyLength":-1},"code":"HPE_HEADER_OVERFLOW"}
+{"config":{"url":"https://alcooldiscount.ro/ro/gin","method":"get","headers":{"Accept":"application/json, text/plain, */*","User-Agent":"axios/0.21.0"},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"maxBodyLength":-1},"code":"HPE_HEADER_OVERFLOW"}
+{"level":"error","timestamp":"2020-12-17T17:34:08.378Z"}
+{"level":"error","timestamp":"2020-12-17T17:34:35.874Z"}

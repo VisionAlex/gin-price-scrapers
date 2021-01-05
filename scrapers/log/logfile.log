@@ -1,0 +1,103 @@
+{"config":{"url":"https://alcooldiscount.ro/ro/gin","method":"get","headers":{"Accept":"application/json, text/plain, */*","User-Agent":"axios/0.21.0"},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"maxBodyLength":-1},"code":"HPE_HEADER_OVERFLOW"}
+{"config":{"url":"https://alcooldiscount.ro/ro/gin","method":"get","headers":{"Accept":"application/json, text/plain, */*","User-Agent":"axios/0.21.0"},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"maxBodyLength":-1},"code":"HPE_HEADER_OVERFLOW"}
+{"config":{"url":"https://alcooldiscount.ro/ro/gin","method":"get","headers":{"Accept":"application/json, text/plain, */*","User-Agent":"axios/0.21.0"},"transformRequest":[null],"transformResponse":[null],"timeout":0,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN","maxContentLength":-1,"maxBodyLength":-1},"code":"HPE_HEADER_OVERFLOW"}
+{"level":"info","message":"75 new items added to database","timestamp":"2020-12-17T15:40:58.908Z"}
+{"level":"info","message":"75 new items added to database","timestamp":"2020-12-17T15:42:59.676Z"}
+{"level":"info","message":"AlcoholDiscount.No updates found.","timestamp":"2020-12-17T15:43:40.332Z"}
+{"level":"info","message":"AlcoholDiscount.No updates found.","timestamp":"2020-12-17T15:44:34.383Z"}
+{"level":"info","message":"75 new items added to database","timestamp":"2020-12-17T15:48:06.172Z"}
+{"level":"info","message":"Gin King's Court Dry 0.7L updated price","timestamp":"2020-12-17T15:48:30.104Z"}
+{"level":"info","message":"Gin Tanqueray 0.7L updated price","timestamp":"2020-12-17T15:48:30.114Z"}
+{"level":"info","message":"Gin Bosford Premium Rose 0.7L updated price","timestamp":"2020-12-17T15:48:30.119Z"}
+{"level":"info","message":"Gin Gordon's Dry 0.5L updated price","timestamp":"2020-12-17T15:48:30.124Z"}
+{"level":"info","message":"Gin Gordon's Pink Dry 0.7L updated price","timestamp":"2020-12-17T15:48:30.130Z"}
+{"level":"info","message":"Gin Finsbury 47 Platinum 0.7L updated price","timestamp":"2020-12-17T15:48:30.134Z"}
+{"level":"info","message":"Gin Norden Dry By Doornkaat 0.7L updated price","timestamp":"2020-12-17T15:48:30.138Z"}
+{"level":"info","message":"Gin Hayman's London Dry Gin 0.7L updated price","timestamp":"2020-12-17T15:48:30.143Z"}
+{"level":"info","message":"Gin Gordon’s Green Label 0.7L updated price","timestamp":"2020-12-17T15:48:30.149Z"}
+{"level":"info","message":"Gin Beefeater London Dry 0.7L updated price","timestamp":"2020-12-17T15:48:30.153Z"}
+{"level":"info","message":"Gin Beefeater Pink 0.7L updated price","timestamp":"2020-12-17T15:48:30.159Z"}
+{"level":"info","message":"Gin Edinburgh 0.7L updated price","timestamp":"2020-12-17T15:48:30.165Z"}
+{"level":"info","message":"Gin Geranium 0.7L updated price","timestamp":"2020-12-17T15:48:30.171Z"}
+{"level":"info","message":"Gin Fifty Pounds 0.7L updated price","timestamp":"2020-12-17T15:48:30.178Z"}
+{"level":"info","message":"Gin Tann's 0.7L updated price","timestamp":"2020-12-17T15:48:30.184Z"}
+{"level":"info","message":"Gin Mombasa Club 0.7L updated price","timestamp":"2020-12-17T15:48:30.190Z"}
+{"level":"info","message":"Gin Botanic Premium Cubical 0.7L updated price","timestamp":"2020-12-17T15:48:30.197Z"}
+{"level":"info","message":"Gin Cannabis Sativa 0.7L updated price","timestamp":"2020-12-17T15:48:30.202Z"}
+{"level":"info","message":"Gin Whitley Neill Lemongrass&Ginger 0.7L updated price","timestamp":"2020-12-17T15:48:30.208Z"}
+{"level":"info","message":"Gin Mom 0.7L updated price","timestamp":"2020-12-17T15:48:30.215Z"}
+{"level":"info","message":"Gin Pink 47 London Dry 0.7L updated price","timestamp":"2020-12-17T15:48:30.221Z"}
+{"level":"info","message":"Gin Brokers 0.7L updated price","timestamp":"2020-12-17T15:48:30.227Z"}
+{"level":"info","message":"Gin Bobby's 0.7L updated price","timestamp":"2020-12-17T15:48:30.233Z"}
+{"level":"info","message":"Gin Bathtub 0.7L updated price","timestamp":"2020-12-17T15:48:30.239Z"}
+{"level":"info","message":"Gin Tanqueray Flor de Sevilla 0.7L updated price","timestamp":"2020-12-17T15:48:30.245Z"}
+{"level":"info","message":"Gin Two Trees 0.7L updated price","timestamp":"2020-12-17T15:48:30.249Z"}
+{"level":"info","message":"Gin Hayman's London Dry Gin 0.7L updated price","timestamp":"2020-12-17T15:48:30.255Z"}
+{"level":"info","message":"Gin Boodles 0.7L updated price","timestamp":"2020-12-17T15:48:30.260Z"}
+{"level":"info","message":"Gin Citrum 0.7L updated price","timestamp":"2020-12-17T15:48:30.264Z"}
+{"level":"info","message":"Gin King Of Soho 0.7L updated price","timestamp":"2020-12-17T15:48:30.269Z"}
+{"level":"info","message":"Gin The London No. 1 Blue 1L updated price","timestamp":"2020-12-17T15:48:30.274Z"}
+{"level":"info","message":"Gin Brockmans 0.7L updated price","timestamp":"2020-12-17T15:48:30.279Z"}
+{"level":"info","message":"Gin Whitley Neill Blood Orange 0.7L updated price","timestamp":"2020-12-17T15:48:30.283Z"}
+{"level":"info","message":"Gin Martin Miller's London Dry 0.7L updated price","timestamp":"2020-12-17T15:48:30.288Z"}
+{"level":"info","message":"Gin Dictador Treasure 0.7L updated price","timestamp":"2020-12-17T15:48:30.294Z"}
+{"level":"info","message":"Gin Momentum 0.7L updated price","timestamp":"2020-12-17T15:48:30.298Z"}
+{"level":"info","message":"Gin Tanqueray No Ten 0.7L updated price","timestamp":"2020-12-17T15:48:30.304Z"}
+{"level":"info","message":"Gin Plymouth 0.7L updated price","timestamp":"2020-12-17T15:48:30.310Z"}
+{"level":"info","message":"Gin The Botanist 0.7L updated price","timestamp":"2020-12-17T15:48:30.318Z"}
+{"level":"info","message":"Gin Tanqueray 0.7L updated price","timestamp":"2020-12-17T15:48:30.323Z"}
+{"level":"info","message":"Gin Whitley Neill Rhubarb&Ginger 0.7L updated price","timestamp":"2020-12-17T15:48:30.329Z"}
+{"level":"info","message":"Gin Hayman's London Dry Gin 0.7L updated price","timestamp":"2020-12-17T15:48:30.335Z"}
+{"level":"info","message":"Gin Suntory Roku 0.7L updated price","timestamp":"2020-12-17T15:48:30.339Z"}
+{"level":"info","message":"Gin Beefeater 24 0.7L updated price","timestamp":"2020-12-17T15:48:30.345Z"}
+{"level":"info","message":"Gin Puerto De Indias 0.7L updated price","timestamp":"2020-12-17T15:48:30.349Z"}
+{"level":"info","message":"Gin Star Of Bombay 0.7L updated price","timestamp":"2020-12-17T15:48:30.357Z"}
+{"level":"info","message":"Gin Whitley Neill 0.7L updated price","timestamp":"2020-12-17T15:48:30.362Z"}
+{"level":"info","message":"Gin Puerto De Indias Strawberry 0.7L updated price","timestamp":"2020-12-17T15:48:30.367Z"}
+{"level":"info","message":"Gin Peaky Blinder Spiced Dry 0.7L updated price","timestamp":"2020-12-17T15:48:30.372Z"}
+{"level":"info","message":"Gin Finsbury London Dry 0.7L updated price","timestamp":"2020-12-17T15:48:30.377Z"}
+{"level":"info","message":"Gin Bulldog 0.7L updated price","timestamp":"2020-12-17T15:48:30.382Z"}
+{"level":"info","message":"Gin Nordes Atlantic 0.7L updated price","timestamp":"2020-12-17T15:48:30.387Z"}
+{"level":"info","message":"Gin Tanqueray Rangpur 1L updated price","timestamp":"2020-12-17T15:48:30.394Z"}
+{"level":"info","message":"Gin Whitley Neill Aloe&Cucumber 0.7L updated price","timestamp":"2020-12-17T15:48:30.397Z"}
+{"level":"info","message":"Gin Hendrick's 0.7L updated price","timestamp":"2020-12-17T15:48:30.402Z"}
+{"level":"info","message":"Gin Eden Mill Love 0.7L updated price","timestamp":"2020-12-17T15:48:30.408Z"}
+{"level":"info","message":"Gin Bloom 0.7L updated price","timestamp":"2020-12-17T15:48:30.413Z"}
+{"level":"info","message":"Gin Juanita 0.5L updated price","timestamp":"2020-12-17T15:48:30.418Z"}
+{"level":"info","message":"Gin Euphoria Cannabis 0.5L updated price","timestamp":"2020-12-17T15:48:30.422Z"}
+{"level":"info","message":"Gin Amuerte Coca Leaf  White Edition 0.7L updated price","timestamp":"2020-12-17T15:48:30.426Z"}
+{"level":"info","message":"Gin Jinzu 0.7L updated price","timestamp":"2020-12-17T15:48:30.430Z"}
+{"level":"info","message":"Gin Brooklyn 0.7L updated price","timestamp":"2020-12-17T15:48:30.435Z"}
+{"level":"info","message":"Gin Le Tribute 0.7L updated price","timestamp":"2020-12-17T15:48:30.440Z"}
+{"level":"info","message":"Gin Monkey 47 0.5L updated price","timestamp":"2020-12-17T15:48:30.446Z"}
+{"level":"info","message":"Gin Gordon’s Green Label 1L updated price","timestamp":"2020-12-17T15:48:30.452Z"}
+{"level":"info","message":"Gin Botanic Cubical Kiss 0.7L updated price","timestamp":"2020-12-17T15:48:30.458Z"}
+{"level":"info","message":"Gin Lane 1751 Victoria Pink 0.7L updated price","timestamp":"2020-12-17T15:48:30.465Z"}
+{"level":"info","message":"Gin Finsbury Wild Strawberry 0.7L updated price","timestamp":"2020-12-17T15:48:30.470Z"}
+{"level":"info","message":"Gin Nolet`S Silver Dry  + Pahar 0.7L updated price","timestamp":"2020-12-17T15:48:30.473Z"}
+{"level":"info","message":"Gin Mare + Pahar 0.7L updated price","timestamp":"2020-12-17T15:48:30.479Z"}
+{"level":"info","message":"Gin Mare Lantern 0.7L updated price","timestamp":"2020-12-17T15:48:30.483Z"}
+{"level":"info","message":"Gin Bombay Sapphire 0.7L updated price","timestamp":"2020-12-17T15:48:30.487Z"}
+{"level":"info","message":"Gin Puerto De Indias Premium Black 0.7L updated price","timestamp":"2020-12-17T15:48:30.494Z"}
+{"level":"info","message":"Gin O'live  + 2 Pahare 0.5L updated price","timestamp":"2020-12-17T15:48:30.497Z"}
+{"level":"info","message":"Gin Bombay Sapphire + cutie 0.7L updated price","timestamp":"2020-12-17T15:48:30.501Z"}
+{"level":"info","message":"75 new items added to database","timestamp":"2020-12-17T15:53:53.131Z"}
+{"level":"info","message":"AlcoholDiscount.No updates found.","timestamp":"2020-12-17T15:54:03.366Z"}
+{"level":"info","message":"AlcoholDiscount.No updates found.","timestamp":"2020-12-17T16:01:31.497Z"}
+{"level":"info","message":"AlcoholDiscount.No updates found.","timestamp":"2020-12-17T16:02:20.228Z"}
+{"level":"info","message":"AlcoholDiscount.No updates found.","timestamp":"2020-12-17T16:02:37.251Z"}
+{"level":"info","message":"Gin Hayman's London Dry Gin 0.7L updated price","timestamp":"2020-12-17T16:03:17.026Z"}
+{"level":"info","message":"Gin Tanqueray 0.7L updated price","timestamp":"2020-12-17T16:03:17.049Z"}
+{"level":"info","message":"Gin Hayman's London Dry Gin 0.7L updated price","timestamp":"2020-12-17T16:03:17.057Z"}
+{"level":"info","message":"75 new items added to database","timestamp":"2020-12-17T16:23:26.109Z"}
+{"level":"info","message":"HAYMAN'S LONDON DRY 0.7L updated price","timestamp":"2020-12-17T16:23:36.167Z"}
+{"level":"info","message":"TANQUERAY 0.7L updated price","timestamp":"2020-12-17T16:23:36.188Z"}
+{"level":"info","message":"HAYMAN'S LONDON DRY 0.7L updated price","timestamp":"2020-12-17T16:23:36.193Z"}
+{"level":"error","timestamp":"2020-12-17T17:34:08.379Z"}
+{"level":"error","timestamp":"2020-12-17T17:34:35.875Z"}
+{"level":"info","message":"106 new items added to database","timestamp":"2020-12-17T18:24:20.003Z"}
+{"level":"info","message":"106 new items added to database","timestamp":"2020-12-17T18:24:20.131Z"}
+{"level":"info","message":"106 new items added to database","timestamp":"2020-12-17T18:27:26.356Z"}
+{"level":"info","message":"King. No updates found","timestamp":"2020-12-17T18:28:07.473Z"}
+{"level":"info","message":"King. No updates found","timestamp":"2020-12-17T18:30:37.245Z"}
+{"level":"info","message":"Alfadrink.No updates found.","timestamp":"2020-12-17T19:08:50.685Z"}
